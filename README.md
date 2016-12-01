@@ -23,7 +23,7 @@
         - effacer
         - détruire
     * Utiliser "ecrire" pour stocker :
-        
+        - "nom" et "valeur"
     * Utiliser "lire" pour afficher dans la zone prévisualisation
         - "nom" et "valeur"
     *Utiliser le 
