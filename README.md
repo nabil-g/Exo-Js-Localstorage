@@ -36,4 +36,5 @@
     
     * Utiliser "réinitialiser" pour effacer toutes les données dans le localstorage.
     
+####Pensez à soigner le CSS (Ui Et Ux) en créant une interface ergonomique et agréable à utiliser.
     
