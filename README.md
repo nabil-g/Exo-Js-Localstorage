@@ -21,10 +21,12 @@
         - ecrire
         - lire 
         - effacer
-        - détruire
+        - réinitialiser
     * Utiliser "ecrire" pour stocker :
         - "nom" et "valeur"
-    * Utiliser "lire" pour afficher dans la zone prévisualisation
+    * Utiliser "lire" pour afficher dans la zone prévisualisation :
         - "nom" et "valeur"
-    *Utiliser le 
+    * Utiliser "effacer" pour lire le "nom" et effacer le coulpe "nom" "valeur" du localstorage.
+    * Utiliser "réinitialiser" pour effacer toutes les données dans le localstorage.
+    
     
