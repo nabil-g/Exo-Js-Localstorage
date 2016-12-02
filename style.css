@@ -1,0 +1,56 @@
+/*CSS*/
+
+/*RESET */
+/**{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}*/
+
+body{
+  height: 960px;
+  background-color: #66ccff;
+}
+
+.entrance{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Tillana', cursive;
+
+}
+
+.entrance a{
+  text-decoration: none;
+  color: white;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+section{ /* edit et prev */
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#prevZone{
+
+  display: block;
+}
+
+form *{
+  margin: 10px 0;
+}
+
+#whiteZone{
+  background-color: white;
+  width: 0%;
+  height: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

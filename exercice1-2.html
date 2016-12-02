@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Untitled</title>
+  </head>
+  <body>
+
+    <p id="p1">
+
+    </p>
+    <p id="p2">
+
+    </p>
+
+    <script type="text/javascript">
+      document.getElementById('p1').innerHTML = "Couleur : " + localStorage.getItem("couleur");
+      document.getElementById('p2').innerHTML = "En héxadécimal : " + localStorage.getItem("couleurHexadecimal");
+    </script>
+  </body>
+</html>
